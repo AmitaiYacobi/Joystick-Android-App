@@ -26,7 +26,7 @@ It should look like this: <br/><br/>
 ![image](https://user-images.githubusercontent.com/71650499/122672015-0f99b100-d1d2-11eb-8cac-746d46269e0f.png)
 
 
-### Submitters:
+### Developers:
   * Ron Eliav
   * Amitai Yacobi
 
