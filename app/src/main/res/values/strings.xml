@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JoystickApp</string>
+    <string name="enter_ip_address">Enter IP Address</string>
+    <string name="enter_port">Enter Port</string>
+    <string name="connect">Connect</string>
+    <string name="rudder">Rudder</string>
+    <string name="throttle">Throttle</string>
+</resources>
